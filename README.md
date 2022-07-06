@@ -2,11 +2,6 @@
 
 #### I'm a Full Time Data Scientis & Data Analyst in Jakar.
 
-##### NOW
-
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
 
 ##### BIO
 
