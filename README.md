@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello guys 👋
 
 #### I'm a Full Time Data Scientist & Data Engineer at Jakarta.
 
