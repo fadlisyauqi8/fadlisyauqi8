@@ -5,12 +5,12 @@
 
 ##### BIO
 
-- 🏢 I'm currently Freelance
-- ⚙️ I use daily: `.py`
+- 🏢 I'm currently Data Engineer at id/x partners
+- ⚙️ I use daily: `.py` `.sas` `.sql`
 - 🌍 I'm mostly active within the **Python Community**
-- 🌱 Learning all about **Machine Learning**
-- 💬 Chat me about **Data**, **Energy**, **AI**
-- 💻 I'm a **Data Scientist**
+- 🌱 Learning all about **Machine Learning** **SAS Programming** 
+- 💬 Chat me about **Data**, **Energy**, **AI** , **Finance**
+- 💻 I'm a **Data Scientist** also **Data Engineer**
 ---
 
 
