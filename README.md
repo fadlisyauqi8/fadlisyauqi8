@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full Time Data Scientis & Data Analyst in Jakar.
+#### I'm a Full Time Data Scientis & Data Engineer at Jakarta.
 
 
 ##### BIO
