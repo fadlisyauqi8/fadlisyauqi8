@@ -8,7 +8,7 @@
 - 🏢 I'm currently Data Engineer at id/x partners
 - ⚙️ I use daily: `.py` `.sas` `.sql`
 - 🌍 I'm mostly active within the **Python Community**
-- 🌱 Learning all about **Machine Learning** **SAS Programming** 
+- 🌱 Learning all about **Machine Learning**, **Computer Vision**, **SAS Programming** 
 - 💬 Chat me about **Data**, **Energy**, **AI** , **Finance**
 - 💻 I'm a **Data Scientist** also **Data Engineer**
 ---
